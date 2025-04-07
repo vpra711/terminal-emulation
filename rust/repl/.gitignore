@@ -1,0 +1,8 @@
+debug/
+target/
+
+# rustfmt
+**/*.rs.bak
+
+# MSVC 
+*.pdb
